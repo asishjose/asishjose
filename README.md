@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asishjose
-- 👀 I’m interested in DevOps and Cloud with the scope using AI & ML.
-- 🌱 I’m currently learning React.js, web designing, javascript and data structures.
-- 📫 How to reach me: www.linkedin.com/in/asish-jose-kakkadan
+- 👀 A resilient ML engineer ✨ Assembling production ready ML apps.
+- 🌱 I’m currently learning django, EDA and data structures.
+- 📫 Reach me: www.linkedin.com/in/asish-jose-kakkadan
 - 😄 Pronouns: He/Him
 -    "We live in the time of cutting edge obolescence"
 <!---
