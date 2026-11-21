@@ -6,4 +6,4 @@ I explore vision and language problems.
 
 Still building & still learning
 
-📫 asishjoseofficial@gmail.com
+📫 asishjosek@gmail.com
